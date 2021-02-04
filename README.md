@@ -23,7 +23,8 @@ v14.15.4
 
 >npm install -g cnpm --registry=https://registry.npm.taobao.org
 
-cnpm -v
+>cnpm -v
+cnpm 版本信息
 ```
 
 ### 三、安装模块打包器(webpack)
@@ -51,7 +52,7 @@ webpack-cli 4.5.0
 ### 五、创建第一个 VUE 项目
 
 ```
-// IDEA 操作步骤 (以 WebStorm 为例)
+// IDE 操作步骤 (以 WebStorm 为例)
 Open WebStorm > New Project > 选择 Vue.js > 定义项目名称 > Finish
 ```
 
